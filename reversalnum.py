@@ -1,3 +1,6 @@
+# Program to reverse a number entered by the user
+
+
 n=int(input("Enter a number"))
 rev=0
 while n>0:
